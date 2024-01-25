@@ -1,0 +1,2 @@
+pytest -vs --browser chrome --url https://www.yatra.com/ --html="C:\Users\da
+nil\Desktop\automated_testing\Selenium Web Automation\Newfolder\Framework2\Reports"/new_report.html --self-contained-html
